@@ -1,3 +1,3 @@
 # GoTestRepo
 
-readme update
+readme update (pt. 2)
